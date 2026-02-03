@@ -2,14 +2,14 @@
 
 **Output**<br>
 
------ Book Details -----<br>
+------- Book Details -------<br>
 Title  : The Great Gatsby<br>
 Author : F. Scott Fitzgerald<br>
 Price  : $15.99<br>
 ISBN   : 9780743273565<br>
 Stock  : 5<br><br>
 
------ Book Details -----<br>
+------- Book Details -------<br>
 Title  : Introduction to Algorithms<br>
 Author : Thomas H. Cormen<br>
 Price  : $89.99<br>
@@ -31,4 +31,4 @@ Updated stock: 7<br><br>
 Is "The Great Gatsby" available? true<br>
 Is "Introduction to Algorithms" available? true<br><br>
 
-=== Code Execution Successful ===
+======= Code Execution Successful =======
