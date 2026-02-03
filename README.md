@@ -10,13 +10,13 @@ Create a class for an online bookstore inventory system featuring the following 
 * Current stock level
   
 The program should be able to:
+
 a. Present all book information in a clear, user-friendly format.
 
 b. Provide the following functionalities:
-
-    i. Reduce the book’s price by a specified percentage when a promotional discount is applied.
-    ii. Increase the book’s stock count when new copies arrive.
-    iii. Determine whether the book is available for purchase based on its stock level.
+Reduce the book’s price by a specified percentage when a promotional discount is applied.
+Increase the book’s stock count when new copies arrive.
+Determine whether the book is available for purchase based on its stock level.
     
 c. Instantiate at least two distinct book examples (for example, a popular novel and a specialized textbook) and demonstrate each of these capabilities for both instances.
 
