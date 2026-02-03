@@ -2,6 +2,7 @@
 
 **Question: Online Bookstore Inventory System**
 
+Problem statement : 
 Create a class for an online bookstore inventory system featuring the following attributes:
 * Title
 * Author
