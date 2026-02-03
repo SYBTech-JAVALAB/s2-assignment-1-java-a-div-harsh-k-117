@@ -8,7 +8,7 @@ Create a class for an online bookstore inventory system featuring the following 
 * Price
 * ISBN
 * Current stock level
-* 
+  
 The program should be able to:
 a. Present all book information in a clear, user-friendly format.
 b. Provide the following functionalities:
