@@ -1,24 +1,34 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AiqvZ3eo)
 
-**Question: Online Bookstore Inventory System**
+**Output**
 
-Problem statement : 
-Create a class for an online bookstore inventory system featuring the following attributes:
-* Title
-* Author
-* Price
-* ISBN
-* Current stock level
-  
-The program should be able to:
+----- Book Details -----
+Title  : The Great Gatsby
+Author : F. Scott Fitzgerald
+Price  : $15.99
+ISBN   : 9780743273565
+Stock  : 5
 
-a. Present all book information in a clear, user-friendly format.
+----- Book Details -----
+Title  : Introduction to Algorithms
+Author : Thomas H. Cormen
+Price  : $89.99
+ISBN   : 9780262033848
+Stock  : 2
 
-b. Provide the following functionalities:
-Reduce the book’s price by a specified percentage when a promotional discount is applied.
-Increase the book’s stock count when new copies arrive.
-Determine whether the book is available for purchase based on its stock level.
-    
-c. Instantiate at least two distinct book examples (for example, a popular novel and a specialized textbook) and demonstrate each of these capabilities for both instances.
+Discount applied: 10.0%
+New price: $14.391
 
+Discount applied: 15.0%
+New price: $76.4915
 
+3 new copies added.
+Updated stock: 8
+
+5 new copies added.
+Updated stock: 7
+
+Is "The Great Gatsby" available? true
+Is "Introduction to Algorithms" available? true
+
+=== Code Execution Successful ===
